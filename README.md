@@ -1,6 +1,6 @@
 # Tetris_v1.0
 ## How to use it?
--Install Python 2.7 and pygame  
+-Install Python 2.7 and Pygame  
 -Open Tetris.py
 ## Operation
 ↓ down  
