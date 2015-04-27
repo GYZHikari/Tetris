@@ -1,7 +1,9 @@
 # Tetris_v1.0
 ## How to use it?
 -Install Python 2.7 and Pygame  
--Open Tetris.py
+-Open Tetris.py  
+or
+-Open Tetris.exe
 ## Operation
 ↓ down  
 ← left  

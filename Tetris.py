@@ -4,8 +4,8 @@
 # Description: Tetris game based on Python 2.7 + pygame
 import prepare
 import pygame
-import pygame.mixer
-import random, os
+import random
+import os
 from pygame.locals import *
 
 
